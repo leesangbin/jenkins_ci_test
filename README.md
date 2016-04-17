@@ -20,6 +20,6 @@ jenkins_ci_test
 
 
 
-git add .
-git commit -m 'Add node app'
-git push origin master
+#git add .
+#git commit -m 'Add node app'
+#git push origin master
