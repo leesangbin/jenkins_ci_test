@@ -15,3 +15,11 @@ jenkins_ci_test
 
 ### step 6. node app.js 
 ### step 7. http://localhost:5000/
+
+
+
+
+
+git add .
+git commit -m 'Add node app'
+git push origin master
